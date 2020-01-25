@@ -50,3 +50,4 @@ bin/
 .settings/
 out/
 build/
+package-lock.json
